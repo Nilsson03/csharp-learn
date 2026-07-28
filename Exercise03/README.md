@@ -6,5 +6,5 @@
 а также минимальное и максимальное допустимые значения: 
 sbyte, byte, short, ushort, int, uint, long, ulong, float, double и decimal.
 
-![Вывод программы](Exercise03.png)
+![Скриншот вывода программы](https://raw.githubusercontent.com/Nilsson03/csharp-learn/main/Exercise03/Exercise03.png)
 
