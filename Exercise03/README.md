@@ -6,5 +6,5 @@
 а также минимальное и максимальное допустимые значения: 
 sbyte, byte, short, ushort, int, uint, long, ulong, float, double и decimal.
 
-![Вывод программы](scrinshot.png)
+![Вывод программы](Exercise03.png)
 
