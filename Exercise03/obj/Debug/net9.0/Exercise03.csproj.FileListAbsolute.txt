@@ -1,0 +1,14 @@
+/home/nikita/learn/c#/Exercise03/bin/Debug/net9.0/Exercise03
+/home/nikita/learn/c#/Exercise03/bin/Debug/net9.0/Exercise03.deps.json
+/home/nikita/learn/c#/Exercise03/bin/Debug/net9.0/Exercise03.runtimeconfig.json
+/home/nikita/learn/c#/Exercise03/bin/Debug/net9.0/Exercise03.dll
+/home/nikita/learn/c#/Exercise03/bin/Debug/net9.0/Exercise03.pdb
+/home/nikita/learn/c#/Exercise03/obj/Debug/net9.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikita/learn/c#/Exercise03/obj/Debug/net9.0/Exercise03.AssemblyInfoInputs.cache
+/home/nikita/learn/c#/Exercise03/obj/Debug/net9.0/Exercise03.AssemblyInfo.cs
+/home/nikita/learn/c#/Exercise03/obj/Debug/net9.0/Exercise03.csproj.CoreCompileInputs.cache
+/home/nikita/learn/c#/Exercise03/obj/Debug/net9.0/Exercise03.dll
+/home/nikita/learn/c#/Exercise03/obj/Debug/net9.0/refint/Exercise03.dll
+/home/nikita/learn/c#/Exercise03/obj/Debug/net9.0/Exercise03.pdb
+/home/nikita/learn/c#/Exercise03/obj/Debug/net9.0/Exercise03.genruntimeconfig.cache
+/home/nikita/learn/c#/Exercise03/obj/Debug/net9.0/ref/Exercise03.dll
